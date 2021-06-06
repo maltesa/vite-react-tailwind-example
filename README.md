@@ -2,9 +2,11 @@
 
 # What's this?
 
-This is a sample project for the Open Campus Frontend Developer Programm. It uses vite, react and tailwindcss.
+This is a sample project (a web music player) for the Open Campus Frontend Developer Programm. It uses vite, react and tailwindcss.
 
 # Setup Steps
+
+_The state after the setup can be found in the `after-setup` Branch._
 
 These steps explain how to setup an empty project with vite, react and tailwindcss. These steps were also used to create this sample project.
 
