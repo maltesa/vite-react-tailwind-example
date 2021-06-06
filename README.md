@@ -80,4 +80,4 @@ export default App;
 
 6. (optional) Add the Tailwind CSS IntelliSense Extension if you're using vscode.
 
-7. **You are ready to go 🎉**. Check your browser, there
+7. **You are ready to go 🎉**. Check your browser.
