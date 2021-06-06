@@ -1,5 +1,7 @@
 # What's this?
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](http://gitpod.io/#https://github.com/maltesa/vite-react-tailwind-example)
+
 This is a sample project for the Open Campus Frontend Developer Programm. It uses vite, react and tailwindcss.
 
 # Setup Steps
