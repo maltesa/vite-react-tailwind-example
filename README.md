@@ -4,6 +4,10 @@
 
 This is a sample project (a web music player) for the Open Campus Frontend Developer Programm. It uses vite, react and tailwindcss.
 
+# Course State
+
+_The state after the course session can be found in the `after-course` Branch._
+
 # Setup Steps
 
 _The state after the setup can be found in the `after-setup` Branch._
